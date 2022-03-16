@@ -1,0 +1,102 @@
+/* Heading */
+
+ body {
+  background-color: #B0E7FF;
+  background: url('https://m.media-amazon.com/images/I/81r8T-CQLrL._AC_SL1200_.jpg');
+ }
+
+#container {
+  background-color: #B4FFB0;
+  width: 960px;
+  margin: 0px auto;
+  border: solid black 1px;
+  padding: 10px;
+}
+
+#image img {
+  width: 250px;
+  height: 75px;
+  float: right;
+  border: solid 2px black;
+  margin: 10px 50px 0px 0px;
+}
+
+nav {
+  width: 200px;
+  margin: 105px 10px;
+  float: left;
+}
+
+nav ul li {
+  text-align: center;
+  font-size: 17px;
+  border: solid;
+  margin: 15px 0px 0px 5px ;
+  list-style-type: none;
+  padding: 8px;
+  background-color: #FFB0B0;
+  text-decoration: none;
+  color: black;
+}
+a:link {
+  background-color: #FFB0B0;
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  background-color: #FFB0B0;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #FFB0B0;
+  text-decoration: none;
+}
+
+a:active {
+  background-color: #FFB0B0;
+  text-decoration: none;
+} 
+
+#main{
+  margin: 55px 0px 0px 100px ;
+  padding: 10px 15px;
+}
+
+#main h2 {
+  background-color: #FFB0B0;
+  width: 450px;
+  border: solid;
+  text-align: center;
+  margin: 55px auto;
+  padding: 5px;
+}
+
+#main p {
+  background-color: #FFB0B0;
+  width: 550px;
+  margin: 45px 183px;
+  border: solid;
+  padding: 15px;
+}
+
+footer {
+  width: 650px;
+  margin: 5px 257px 25px;
+  list-style-type: none;
+  display: inline-block;
+}
+
+footer ul li {
+  font-size: 19px;
+  list-style-type: none;
+  border: solid;
+  padding: 20px 60px;
+  display: inline;
+  background-color: #FFB0B0;
+  text-decoration: none;
+  color: black;
+}
+
+
